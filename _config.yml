@@ -1,12 +1,13 @@
 # basic options
 title: Python for Newbies
 author: kajtov
-email: your-email@domain.com
-description: A wonderful site
-twitter_username: jekyllrb
-github_username:  jekyll
+email: ajtova.k@gmail.com  
+description: Introduction to Python and data analysis. Step by step collection. 
+github_username:  kajtov
 
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-minimal
 highlighter: rouge
+
+google_analytics: UA-106773929-1
